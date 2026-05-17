@@ -3,3 +3,7 @@
 *.pickle
 *.html
 .DS_Store
+
+# Content-analyst 批处理过程文件
+.batch-*.txt
+.content-analyst-agent-prompt.md
